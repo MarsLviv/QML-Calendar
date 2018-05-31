@@ -1,0 +1,2 @@
+This is lab. work from online Qt Training Course "Qt Quick & QML": www.qt.io/qt-training/
+You can use all files (except left.png and right.png taken from www.qt.io cite) as you want.
